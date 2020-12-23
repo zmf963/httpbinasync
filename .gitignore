@@ -1,0 +1,6 @@
+.vscode/
+tmp/
+.VSCodeCounter/
+.pytest_cache
+__pycache__
+*.pyc

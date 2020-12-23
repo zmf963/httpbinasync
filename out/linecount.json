@@ -1,0 +1,363 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "/opt/httpbinasync",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2020-12-14 11:22:28",
+            "filesum": 57,
+            "codesum": 3105,
+            "commentsum": 107,
+            "blanksum": 832,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 6,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter/2020-12-14_11-18-01/details.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter/2020-12-14_11-18-01/results.csv"
+                },
+                {
+                    "blank": 7,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter/2020-12-14_11-18-01/results.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter/2020-12-14_11-18-01/results.txt"
+                },
+                {
+                    "blank": 6,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter/2020-12-14_11-20-00/details.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter/2020-12-14_11-20-00/results.csv"
+                },
+                {
+                    "blank": 7,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter/2020-12-14_11-20-00/results.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": ".VSCodeCounter/2020-12-14_11-20-00/results.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "docker-compose.yml"
+                },
+                {
+                    "blank": 5,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Dockerfile"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "httpbinasync/__init__.py"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "Node.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "pyproject.toml"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "README.rst"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "tests/__init__.py"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "tests/test_httpbinasync.py"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/.dockerignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/.travis.yml"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/app.json"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 5,
+                    "filename": "tmp/httpbin/AUTHORS"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/docker-compose.yml"
+                },
+                {
+                    "blank": 7,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/Dockerfile"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "tmp/httpbin/httpbin/__init__.py"
+                },
+                {
+                    "blank": 307,
+                    "code": 712,
+                    "comment": 40,
+                    "filename": "tmp/httpbin/httpbin/core.py"
+                },
+                {
+                    "blank": 41,
+                    "code": 68,
+                    "comment": 1,
+                    "filename": "tmp/httpbin/httpbin/filters.py"
+                },
+                {
+                    "blank": 99,
+                    "code": 294,
+                    "comment": 11,
+                    "filename": "tmp/httpbin/httpbin/helpers.py"
+                },
+                {
+                    "filename": "tmp/httpbin/httpbin/static/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "tmp/httpbin/httpbin/structures.py"
+                },
+                {
+                    "blank": 30,
+                    "code": 181,
+                    "comment": 1,
+                    "filename": "tmp/httpbin/httpbin/templates/flasgger/index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/httpbin/templates/footer.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 1,
+                    "filename": "tmp/httpbin/httpbin/templates/forms-post.html"
+                },
+                {
+                    "blank": 14,
+                    "code": 63,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/httpbin/templates/httpbin.1.html"
+                },
+                {
+                    "filename": "tmp/httpbin/httpbin/templates/images/jackal.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "tmp/httpbin/httpbin/templates/images/pig_icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 19,
+                    "code": 111,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/httpbin/templates/images/svg_logo.svg"
+                },
+                {
+                    "filename": "tmp/httpbin/httpbin/templates/images/wolf_1.webp",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 45,
+                    "code": 206,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/httpbin/templates/index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/httpbin/templates/moby.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 16,
+                    "comment": 3,
+                    "filename": "tmp/httpbin/httpbin/templates/sample.xml"
+                },
+                {
+                    "blank": 1,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/httpbin/templates/trackingscripts.html"
+                },
+                {
+                    "blank": 16,
+                    "code": 35,
+                    "comment": 2,
+                    "filename": "tmp/httpbin/httpbin/templates/UTF-8-demo.txt"
+                },
+                {
+                    "blank": 6,
+                    "code": 12,
+                    "comment": 1,
+                    "filename": "tmp/httpbin/httpbin/utils.py"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/httpbin/VERSION"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/LICENSE"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/MANIFEST.in"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/now.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/Pipfile"
+                },
+                {
+                    "blank": 19,
+                    "code": 227,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/Pipfile.lock"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/Procfile"
+                },
+                {
+                    "blank": 12,
+                    "code": 19,
+                    "comment": 10,
+                    "filename": "tmp/httpbin/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/runtime.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/setup.cfg"
+                },
+                {
+                    "blank": 7,
+                    "code": 31,
+                    "comment": 4,
+                    "filename": "tmp/httpbin/setup.py"
+                },
+                {
+                    "blank": 128,
+                    "code": 647,
+                    "comment": 25,
+                    "filename": "tmp/httpbin/test_httpbin.py"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "tmp/httpbin/tox.ini"
+                }
+            ]
+        }
+    ]
+}

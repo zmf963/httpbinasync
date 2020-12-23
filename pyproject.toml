@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "httpbinasync"
+version = "0.1.0"
+description = "A simple HTTP Request & Response Service, written in Python3 + Sanic."
+authors = ["Zmf96 <Zmf96@qq.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+sanic = "^20.9.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,69 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2020-12-14 11:22:28
+count workspace : /opt/httpbinasync
+total files : 57
+total code lines : 3105
+total comment lines : 107
+total blank lines : 832
+
+.gitignore, code is 0, comment is 0, blank is 0.
+.VSCodeCounter/2020-12-14_11-18-01/details.md, code is 31, comment is 0, blank is 6.
+.VSCodeCounter/2020-12-14_11-18-01/results.csv, code is 24, comment is 0, blank is 0.
+.VSCodeCounter/2020-12-14_11-18-01/results.md, code is 23, comment is 0, blank is 7.
+.VSCodeCounter/2020-12-14_11-18-01/results.txt, code is 52, comment is 0, blank is 3.
+.VSCodeCounter/2020-12-14_11-20-00/details.md, code is 23, comment is 0, blank is 6.
+.VSCodeCounter/2020-12-14_11-20-00/results.csv, code is 16, comment is 0, blank is 0.
+.VSCodeCounter/2020-12-14_11-20-00/results.md, code is 18, comment is 0, blank is 7.
+.VSCodeCounter/2020-12-14_11-20-00/results.txt, code is 39, comment is 0, blank is 3.
+docker-compose.yml, code is 6, comment is 0, blank is 0.
+Dockerfile, code is 10, comment is 0, blank is 5.
+httpbinasync/__init__.py, code is 1, comment is 0, blank is 0.
+Node.md, code is 3, comment is 0, blank is 2.
+pyproject.toml, code is 12, comment is 0, blank is 3.
+README.rst, code is 3, comment is 0, blank is 2.
+tests/__init__.py, code is 0, comment is 0, blank is 0.
+tests/test_httpbinasync.py, code is 3, comment is 0, blank is 2.
+tmp/httpbin/.dockerignore, code is 2, comment is 0, blank is 0.
+tmp/httpbin/.gitignore, code is 11, comment is 0, blank is 0.
+tmp/httpbin/.travis.yml, code is 17, comment is 0, blank is 3.
+tmp/httpbin/app.json, code is 9, comment is 0, blank is 0.
+tmp/httpbin/AUTHORS, code is 20, comment is 5, blank is 5.
+tmp/httpbin/docker-compose.yml, code is 6, comment is 0, blank is 0.
+tmp/httpbin/Dockerfile, code is 15, comment is 0, blank is 7.
+tmp/httpbin/httpbin/__init__.py, code is 1, comment is 1, blank is 1.
+tmp/httpbin/httpbin/core.py, code is 712, comment is 40, blank is 307.
+tmp/httpbin/httpbin/filters.py, code is 68, comment is 1, blank is 41.
+tmp/httpbin/httpbin/helpers.py, code is 294, comment is 11, blank is 99.
+tmp/httpbin/httpbin/static/favicon.ico, it is a binary file.
+tmp/httpbin/httpbin/structures.py, code is 8, comment is 2, blank is 8.
+tmp/httpbin/httpbin/templates/flasgger/index.html, code is 181, comment is 1, blank is 30.
+tmp/httpbin/httpbin/templates/footer.html, code is 15, comment is 0, blank is 3.
+tmp/httpbin/httpbin/templates/forms-post.html, code is 28, comment is 1, blank is 0.
+tmp/httpbin/httpbin/templates/httpbin.1.html, code is 63, comment is 0, blank is 14.
+tmp/httpbin/httpbin/templates/images/jackal.jpg, it is a binary file.
+tmp/httpbin/httpbin/templates/images/pig_icon.png, it is a binary file.
+tmp/httpbin/httpbin/templates/images/svg_logo.svg, code is 111, comment is 0, blank is 19.
+tmp/httpbin/httpbin/templates/images/wolf_1.webp, it is a binary file.
+tmp/httpbin/httpbin/templates/index.html, code is 206, comment is 0, blank is 45.
+tmp/httpbin/httpbin/templates/moby.html, code is 13, comment is 0, blank is 1.
+tmp/httpbin/httpbin/templates/sample.xml, code is 16, comment is 3, blank is 5.
+tmp/httpbin/httpbin/templates/trackingscripts.html, code is 17, comment is 0, blank is 1.
+tmp/httpbin/httpbin/templates/UTF-8-demo.txt, code is 35, comment is 2, blank is 16.
+tmp/httpbin/httpbin/utils.py, code is 12, comment is 1, blank is 6.
+tmp/httpbin/httpbin/VERSION, code is 1, comment is 0, blank is 0.
+tmp/httpbin/LICENSE, code is 12, comment is 0, blank is 3.
+tmp/httpbin/MANIFEST.in, code is 3, comment is 0, blank is 0.
+tmp/httpbin/now.json, code is 8, comment is 0, blank is 2.
+tmp/httpbin/Pipfile, code is 16, comment is 0, blank is 2.
+tmp/httpbin/Pipfile.lock, code is 227, comment is 0, blank is 19.
+tmp/httpbin/Procfile, code is 1, comment is 0, blank is 0.
+tmp/httpbin/README.md, code is 19, comment is 10, blank is 12.
+tmp/httpbin/runtime.txt, code is 1, comment is 0, blank is 0.
+tmp/httpbin/setup.cfg, code is 2, comment is 0, blank is 0.
+tmp/httpbin/setup.py, code is 31, comment is 4, blank is 7.
+tmp/httpbin/test_httpbin.py, code is 647, comment is 25, blank is 128.
+tmp/httpbin/tox.ini, code is 13, comment is 0, blank is 2.
+===============================================================================
